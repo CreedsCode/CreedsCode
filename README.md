@@ -4,9 +4,8 @@
 
 ## Some infos about me
 - 🔭 I’m currently working on different stuff
-- 🌱 I’m currently learning: how to survive
+- 🌱 I’m currently learning: MERV Stack
 - 📫 How to reach me: contact@creedscode.cc
-- 😄 Pronouns: 🦍 hu hu hu hu
 
 ### Connect with me:
 [<img align="left" alt="http://creedscode.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
