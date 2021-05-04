@@ -4,7 +4,7 @@
 
 ## Some infos about me
 - 🔭 I’m currently working on different stuff
-- 🌱 I’m currently learning: MERV Stack
+- 🌱 I’m currently learning: MERN Stack
 - 📫 How to reach me: contact@creedscode.cc
 
 ### Connect with me:
@@ -13,7 +13,6 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Asp.Net" width="26px" src="https://github.com/github/explore/raw/master/topics/aspnet/aspnet.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
