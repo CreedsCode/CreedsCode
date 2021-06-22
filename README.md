@@ -24,7 +24,7 @@
 
 ---
 
-<img align="left" alt="Creeds's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CreedsCode&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=creedscode)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://creedscode.cc
 [twitter]: https://twitter.com/CreedGamesOA
