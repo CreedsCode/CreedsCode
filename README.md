@@ -4,7 +4,7 @@
 
 ## Some infos about me
 - 🔭 I’m currently working on different stuff
-- 🌱 I’m currently learning: MERN Stack
+- 🌱 I’m currently learning: Data Engineering
 - 📫 How to reach me: contact@creedscode.cc
 
 ### Connect with me:
@@ -28,3 +28,4 @@
 
 [website]: http://creedscode.cc
 [twitter]: https://twitter.com/CreedGamesOA
+[linkedIn]: https://www.linkedin.com/in/dercioh
