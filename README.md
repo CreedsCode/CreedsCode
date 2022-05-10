@@ -4,7 +4,7 @@
 
 ## Some infos about me
 - 🔭 I’m currently working on different stuff
-- 🌱 I’m currently learning: Data Engineering
+- 🌱 I’m currently learning: Web3
 - 📫 How to reach me: contact@creedscode.cc
 
 ### Connect with me:
