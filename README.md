@@ -25,7 +25,7 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=creedscode)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/9e1925f3-de10-44e6-8f56-678f07860667.svg)](https://wakatime.com/@9e1925f3-de10-44e6-8f56-678f07860667)
 
 [website]: http://creedscode.cc
-[twitter]: https://twitter.com/CreedGamesOA
-[linkedIn]: https://www.linkedin.com/in/dercioh
+
