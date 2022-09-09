@@ -1,6 +1,6 @@
 ### Hi there, I'm [CreedsCode][website] 👋
 [![Website](https://img.shields.io/website?label=creedscode.cc&style=for-the-badge&url=https%3A%2F%2Fcreedscode.cc)](http://creedscode.cc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CreedGamesOA?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCreedsCode&screen_name=CreedsCode)
+[![Twitter Follow](https://img.shields.io/twitter/follow/@spanish_vanish?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCreedsCode&screen_name=CreedsCode)
 
 ## Some infos about me
 - 🔭 I’m currently working on different stuff
@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="http://creedscode.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CreedGamesOS | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="spanish-or-vanish.eth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -27,5 +27,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=creedscode)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/9e1925f3-de10-44e6-8f56-678f07860667.svg)](https://wakatime.com/@9e1925f3-de10-44e6-8f56-678f07860667)
 
-[website]: http://creedscode.cc
+
 
