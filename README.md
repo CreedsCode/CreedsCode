@@ -1,6 +1,5 @@
-### Hi there, I'm [CreedsCode][website] 👋
-[![Website](https://img.shields.io/website?label=creedscode.cc&style=for-the-badge&url=https%3A%2F%2Fcreedscode.cc)](http://creedscode.cc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/@spanish_vanish?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCreedsCode&screen_name=CreedsCode)
+### Hi there, I'm [CreedsCode]👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/spanish_vanish?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCreedsCode&screen_name=CreedsCode)
 
 ## Some infos about me
 - 🔭 I’m currently working on different stuff
