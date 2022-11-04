@@ -1,9 +1,8 @@
-### Hi there, I'm CreedsCode aka @spanish_vanish👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/spanish_vanish?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCreedsCode&screen_name=spanish_vanish)
+### Hi there, I'm CreedsCode👋
 
 ## Some infos about me
 - 🔭 I’m currently working on different stuff
-- 🌱 I’m currently learning: Web3
+- 🌱 I’m currently learning: Everything
 - 📫 How to reach me: contact@creedscode.cc
 
 ### Languages and Tools:
